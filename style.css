@@ -1,0 +1,184 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+ html {
+    position: relative;
+    min-height: 100%;
+  }
+ 
+ 
+ /* background Image */
+.background-body {
+    /* margin-bottom: 20%; */
+    background-size: auto;
+    background-image: url(./Assets/Images/portoflio_background.png);
+    background-size: cover;
+    padding-bottom: 20%;
+    height: 100%;
+    width: 100%;
+    
+
+}
+ /* Navbar */
+.navbar {
+	padding: 0px 10px 0px 10px;
+	border-bottom: 2px solid #bbbbbb;
+	background-color: #ffffff;
+	
+}
+
+.navbar-brand {
+	background-color: #4aaaa5;
+	padding: 25px;
+	font-family: 'Spinnaker', sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.header-name {
+	color: #ffffff;
+}
+
+.header .nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    margin-top: ;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+/* Portfolio box */
+.container {
+    background-color: white;
+    width: 750px;
+    height: 1250px;
+    margin-bottom: 20%;
+    padding: 20px;
+    margin-top: 100px;
+   
+}
+
+.container-md {
+    background-color: white;
+    width: 600px;
+    height: 700px;
+    margin-bottom: 50px;
+    padding: 20px;
+    margin-top: 100px;
+}
+
+.container-sm {
+    background-color: white;
+    width: 500px;
+    height: 550px;
+    margin-bottom: 50px;
+    padding: 20px;
+    margin-top: 100px;
+}
+
+
+
+
+/* layout/style */
+h1 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 36px;
+	color: #4aaaa5;
+	padding: 20px 10px 10px 20px;
+    font-weight: 700;
+}  
+    
+h2 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 20px;
+    background-color: #4aaaa5;
+    color: white;
+    padding: 30px 10px 10px 5px;
+    font-weight: 700;
+}
+
+/* footer */
+.footer {
+        position: fixed; 
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        margin-top: -80px;
+        height: 80px;
+        line-height: 80px;
+        background-color: #666666;
+        text-align: center;
+        border-top: 5px solid #4aaaa5;
+        font-size: 12px;
+        padding-top: 8px;
+}
+
+
+/* main {
+    background-color: white;
+} */
+.main-content {
+	margin-top: 100px;
+}
+
+/* .hr-main {
+	margin: 15px 0px 20px 0px;
+	background-color: #cccccc; 
+	height: 1px; 
+} */
+
+
+.suzy .h {
+    font-weight: bold;
+    Color: white;
+} 
+
+.col {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.nav-link {
+    color: gray;
+}
+
+.pic {
+	max-width: 300px;
+	max-height: 330px;
+	float: left;
+	margin: 10px 20px 0px;
+
+}
+
+.active {
+    color: black;
+}
+
+.submit .btn .btn-success .btn-send {
+    color:  #15AD95;   
+}
+
+   
+
+/* .col-md-4 {
+    word-wrap: break-word;
+  } */
+
+ 
+
+.h2 {
+    font-weight: bold;
+    color: white;
+    background-color:  #15AD95;
+}

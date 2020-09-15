@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+
+    <title>Contact Page</title>
+</head>
+
+<body>
+    <div class="background-body">
+        <nav class="navbar navbar-light bg-light">
+            <a class="header-name" href="./index.html">
+                <h2 class="header">Suzy Le Bel</h2>
+            </a>
+            <ul class="nav justify-content-end">
+                <li class="nav-item">
+                    <a class="nav-link active" href="./contact.html">Contact</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="./portfolio.html">Portfolio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="./index.html">About Suzy</a>
+                </li>
+            </ul>
+        </nav>
+
+        <main class="container-sm">
+            <div class="col-md-6">
+                <div class="row">
+                    <h1 class=>Contact</h1>
+                </div>
+                <hr class="hr-main">
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label for="form_name">Name </label>
+                        <input id="form_name" type="text" name="name" class="form-control" placeholder="Name"
+                            required="required" data-error="Firstname is required.">
+                        <div class="help-block with-errors"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label for="form_email">Email </label>
+                        <input id="form_email" type="email" name="email" class="form-control" placeholder="Email"
+                            required="required" data-error="Valid email is required.">
+                        <div class="help-block with-errors"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="form_message">Message </label>
+                        <textarea id="form_message" name="message" class="form-control" placeholder="Send me a message!"
+                            rows="3" required="required" data-error="Please,leave us a message."></textarea>
+                        <div class="help-block with-errors"></div>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <input type="submit" class="btn btn-success btn-send" value="Submit">
+                </div>
+            </div>
+        </main>
+    </div>
+    <footer class="footer">
+        <div> &copy: Suzy Le Bel 2020
+        </div>
+    </footer>
+</body>
+
+</html>
