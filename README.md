@@ -24,21 +24,25 @@ The goal of this project was to create a portfolio page that will link to our up
 
 *Note: This page will be updated over the week as adjustments are made and projects are added. 
 
-The homepage is [index.html]((https://suzylebel.github.io/myportfolio_2/))  
-[see code here](https://github.com/suzylebel/myportfolio_2/blob/master/index.html) which is also the about me page. 
+The homepage is [index.html](https://suzylebel.github.io/myportfolio_2/)
+ - [see code here](https://github.com/suzylebel/myportfolio_2/blob/master/index.html) which is also the about me page. 
 
 I created a container and used columns and rows with the bootstrap css file to expedite the process. The index is where I created the nav bar and would then copy and past it on all 3 pages exactly the same but just changing the respective page to be "active" so it would be highlighted.
 
 ![](/images/index_image.png)
 
+The index page is responsive when condensened. 
 
-The next page is [contact.html](https://suzylebel.github.io/myportfolio_2/contact.html) [see code here.](https://github.com/suzylebel/myportfolio_2/blob/master/contact.html)
+
+The next page is [contact.html](https://suzylebel.github.io/myportfolio_2/contact.html) 
+[see code here.](https://github.com/suzylebel/myportfolio_2/blob/master/contact.html)
 
 ![](/images/contact_image.png)
 
 The contact page was created with taking various pieces of forms from getbootstrap.com to incorporate in this project. Although it is currently not operational for the purpose of this project it will become functional over time. 
 
-The [portfolio page](https://suzylebel.github.io/myportfolio_2/portfolio.html) [see code here.](https://github.com/suzylebel/myportfolio_2/blob/master/portfolio.html)
+The [portfolio page](https://suzylebel.github.io/myportfolio_2/portfolio.html) 
+[see code here.](https://github.com/suzylebel/myportfolio_2/blob/master/portfolio.html)
 
 ![](/images/portfolio_image.png)
 
@@ -49,13 +53,12 @@ This page was rather complex with making sure the images fit in the container an
 On all 3 pages the navbar, background image, and sticky footer are the same. The background image was taken from the sample images to complete the exact look requested by our proffesor, John. When the pages are shrunk the navbar has a dropdown bar and is responsive on all of the pages. 
 
 
-
 ## Tech Used
 Built with: 
-  -Html
-  -CSS
-  -Bootstrap
-  -JS code from bootstrap for certain functions on HTML
+  - Html
+  - CSS
+  - Bootstrap
+  - JS code from bootstrap for certain functions on HTML
 
 ## Code
 Using getbootstrap for the nav bar was super helpful as all I did was copy this navbar code from getboostrap.com and deleted a few extra things I didn't need. I undertsand each line of code but I did not have to write each line out! ```<nav class="navbar navbar-expand-md bg-light navbar-light">
