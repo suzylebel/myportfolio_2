@@ -1,20 +1,21 @@
 HOMEWORK ASSIGNMENT 2: My Portfolio
 
 Explore the [Project Page](https://suzylebel.github.io/myportfolio_2/)
+
 View the [Github page](https://github.com/suzylebel/myportfolio_2)
 
 ## Table of Contents
-*About the Project
-  *[Index](https://suzylebel.github.io/myportfolio_2/)
-  *[Portfolio page](https://suzylebel.github.io/myportfolio_2/portfolio.html)
-  *[Contact page](https://suzylebel.github.io/myportfolio_2/contact.html)
-*Continuity
-*Tech/Framework used
-*Code
-*Contributing
-*License
-*Contact
-*Credits
+-About the Project
+  -[Index](https://suzylebel.github.io/myportfolio_2/)
+  -[Portfolio page](https://suzylebel.github.io/myportfolio_2/portfolio.html)
+  -[Contact page](https://suzylebel.github.io/myportfolio_2/contact.html)
+-Continuity
+-Tech/Framework used
+-Code
+-Contributing
+-License
+-Contact
+-Credits
 
 
  ## About My Portfolio Project
