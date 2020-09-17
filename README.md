@@ -16,6 +16,7 @@ View the [Github page](https://github.com/suzylebel/myportfolio_2)
 6. License
 7. Contact
 8. Credits
+9. Things to add/update
 
 
  ## About My Portfolio Project
@@ -33,15 +34,20 @@ I created a container and used columns and rows with the bootstrap css file to e
 
 The index page is responsive when condensened. 
 
+---------
 
 The next page is [contact.html](https://suzylebel.github.io/myportfolio_2/contact.html) 
+
 [see code here.](https://github.com/suzylebel/myportfolio_2/blob/master/contact.html)
 
 ![](/images/contact_image.png)
 
 The contact page was created with taking various pieces of forms from getbootstrap.com to incorporate in this project. Although it is currently not operational for the purpose of this project it will become functional over time. 
 
+--------
+
 The [portfolio page](https://suzylebel.github.io/myportfolio_2/portfolio.html) 
+
 [see code here.](https://github.com/suzylebel/myportfolio_2/blob/master/portfolio.html)
 
 ![](/images/portfolio_image.png)
@@ -107,3 +113,7 @@ Project Link can be found [here.](https://suzylebel.github.io/myportfolio_2/)
 
 ## Credit
 Assistance from John Young(Instructor) and Amanda Crawford(Tutor). 
+
+
+## Things to Change
+I need to finish cleaning up my .css file to make sure it is good to go. I also will format the document and reserach @media queries because I think I am missing them.....
