@@ -4,18 +4,17 @@ Explore the [Project Page](https://suzylebel.github.io/myportfolio_2/)
 View the [Github page](https://github.com/suzylebel/myportfolio_2)
 
 ## Table of Contents
-About the Project
-  [Index](https://suzylebel.github.io/myportfolio_2/)
-  [Portfolio page](https://suzylebel.github.io/myportfolio_2/portfolio.html)
-  [Contact page](https://suzylebel.github.io/myportfolio_2/contact.html)
-Continuity
-Roadmap
-Tech/Framework used
-Code
-Contributing
-License
-Contact
-Credits
+*About the Project
+  *[Index](https://suzylebel.github.io/myportfolio_2/)
+  *[Portfolio page](https://suzylebel.github.io/myportfolio_2/portfolio.html)
+  *[Contact page](https://suzylebel.github.io/myportfolio_2/contact.html)
+*Continuity
+*Tech/Framework used
+*Code
+*Contributing
+*License
+*Contact
+*Credits
 
 
  ## About My Portfolio Project
@@ -24,7 +23,8 @@ The goal of this project was to create a portfolio page that will link to our up
 
 *Note: This page will be updated over the week as adjustments are made and projects are added. 
 
-The homepage is index.html [see code here](https://github.com/suzylebel/myportfolio_2/blob/master/index.html) which is also the about me page. 
+The homepage is [index.html]((https://suzylebel.github.io/myportfolio_2/))  
+[see code here](https://github.com/suzylebel/myportfolio_2/blob/master/index.html) which is also the about me page. 
 
 I created a container and used columns and rows with the bootstrap css file to expedite the process. The index is where I created the nav bar and would then copy and past it on all 3 pages exactly the same but just changing the respective page to be "active" so it would be highlighted.
 
@@ -47,11 +47,7 @@ This page was rather complex with making sure the images fit in the container an
 
 On all 3 pages the navbar, background image, and sticky footer are the same. The background image was taken from the sample images to complete the exact look requested by our proffesor, John. When the pages are shrunk the navbar has a dropdown bar and is responsive on all of the pages. 
 
-## Roadmap 
-Below are 3 screenshots of the pages
-![](/images/portfolio_image.png)
-![](/images/contact_image.png)
-![](/images/index_image.png)
+
 
 ## Tech Used
 Built with: 
@@ -83,11 +79,19 @@ Using getbootstrap for the nav bar was super helpful as all I did was copy this 
             </div>  
           </nav>```
 
+The .css style page was lots of trail and error, but is organized so that each section is categorized with its corresponding location. 
+
+I used relative path for all images and links.
+
+There is Javascript code from bootstrap located below the footer in each page to have a functioning footer ```<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>```
+    
+
 ## Contribute
 If you’d like to fork this project from github please feel free! With a pull request I can grant you access to leave comments and notes about this project. 
 
 ## License 
-
 None
  
 ## Contact 
